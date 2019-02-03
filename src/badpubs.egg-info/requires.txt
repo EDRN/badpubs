@@ -1,0 +1,3 @@
+distribute
+rdflib<=2.4
+lxml
